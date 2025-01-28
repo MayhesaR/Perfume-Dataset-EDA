@@ -20,3 +20,8 @@ This project analyzes perfume sales data, focusing on various factors such as pr
 2. **Brand Popularity**: Some brands dominate the sales based on market reputation and pricing.
 3. **Price vs. Sales Correlation**: Analyzing how the price impacts the sales volume to identify the most profitable pricing strategies.
 4. **Title Keywords and Sales**: Identifying how certain keywords in perfume titles (e.g., "luxury", "fresh") influence sales.
+
+
+## Acknowledgements
+- Thanks to [Kaggle](https://www.kaggle.com) for providing the dataset.
+- Inspired by perfume sales analysis trends.
